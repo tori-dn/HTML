@@ -26,7 +26,6 @@ Welcome to mono — your digital bank is ready
 <!-- ===== CONTENT START ===== -->
 
 <h1 style="margin:0;font-size:24px;font-family:Arial,sans-serif;">
-Welcome to mono bank
 </h1>
 
 <p style="font-size:16px;line-height:22px;font-family:Arial,sans-serif;">
